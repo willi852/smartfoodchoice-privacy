@@ -1,0 +1,130 @@
+# Política de Privacidad - SmartFoodChoice
+
+**Última actualización:** 12 de enero de 2026
+
+## 1. Introducción
+
+Bienvenido a SmartFoodChoice. Esta Política de Privacidad explica cómo recopilamos, usamos y protegemos tu información personal cuando utilizas nuestra aplicación móvil.
+
+Tu privacidad es importante para nosotros. SmartFoodChoice fue diseñada con la privacidad como prioridad, almacenando la mayoría de tus datos localmente en tu dispositivo.
+
+## 2. Información que Recopilamos
+
+### 2.1 Información que almacenamos localmente
+- **Datos de cuenta:** Nombre de usuario y correo electrónico
+- **Fotos de productos:** Imágenes que captures o selecciones desde tu dispositivo
+- **Evaluaciones:** Análisis nutricionales, calificaciones y notas personales
+- **Listas:** Listas de compras e ingredientes que crees
+- **Preferencias:** Configuraciones de la aplicación
+
+**Importante:** Toda esta información se almacena ÚNICAMENTE en tu dispositivo mediante una base de datos local SQLite encriptada.
+
+### 2.2 Información procesada por servicios externos
+- **Análisis de ingredientes:** Las fotos de etiquetas nutricionales se envían a OpenRouter API para su análisis mediante inteligencia artificial
+- **Compras in-app:** Información de transacciones procesada por Google Play Billing
+
+## 3. Cómo Usamos tu Información
+
+Usamos la información recopilada para:
+- Proporcionarte análisis nutricionales de productos
+- Guardar tu historial de evaluaciones
+- Gestionar tus listas de compras e ingredientes
+- Procesar compras de funcionalidades premium
+- Mejorar la experiencia de usuario de la aplicación
+
+## 4. Compartir Información
+
+### 4.1 No vendemos ni compartimos tus datos personales
+
+SmartFoodChoice NO vende, alquila ni comparte tu información personal con terceros para fines de marketing.
+
+### 4.2 Servicios de terceros utilizados
+
+**OpenRouter API:**
+- **Propósito:** Análisis de ingredientes mediante IA
+- **Datos enviados:** Imágenes de etiquetas nutricionales
+- **Política:** https://openrouter.ai/privacy
+- **Retención:** Las imágenes son procesadas en tiempo real y no se almacenan permanentemente
+
+**Google Play Services:**
+- **Propósito:** Procesamiento de compras in-app (versión Premium)
+- **Política:** https://policies.google.com/privacy
+
+## 5. Almacenamiento y Seguridad de Datos
+
+### 5.1 Almacenamiento local
+- Todos tus datos personales se almacenan en una base de datos SQLite local en tu dispositivo
+- La base de datos está protegida por el sistema de seguridad de Android
+- No mantenemos servidores centrales con tu información personal
+
+### 5.2 Medidas de seguridad
+- Encriptación de datos locales
+- Acceso protegido mediante autenticación local
+- Sin sincronización automática en la nube (a menos que uses servicios de respaldo de Android)
+
+## 6. Permisos de la Aplicación
+
+SmartFoodChoice solicita los siguientes permisos:
+
+| Permiso | Justificación |
+|---------|---------------|
+| **Cámara** | Para capturar fotos de etiquetas nutricionales |
+| **Almacenamiento** | Para seleccionar imágenes de la galería y guardar fotos |
+| **Internet** | Para el análisis de ingredientes mediante IA y validación de compras |
+
+Puedes revocar estos permisos en cualquier momento desde la configuración de Android.
+
+## 7. Tus Derechos
+
+Tienes derecho a:
+- **Acceder** a todos tus datos (están en tu dispositivo)
+- **Modificar** cualquier información desde la app
+- **Eliminar** tu cuenta y todos tus datos desde la configuración
+- **Exportar** tus datos (funcionalidad de exportación disponible)
+- **Revocar permisos** desde la configuración de Android
+
+## 8. Eliminación de Datos
+
+Para eliminar completamente tus datos:
+
+1. **Método 1:** Abre la app → Perfil → Configuración → "Eliminar cuenta"
+2. **Método 2:** Desinstala la aplicación (esto elimina toda la base de datos local)
+
+Los datos enviados a OpenRouter para análisis no se almacenan permanentemente en sus servidores.
+
+## 9. Privacidad de Menores
+
+SmartFoodChoice no está dirigida a menores de 13 años. No recopilamos intencionalmente información personal de niños menores de 13 años. Si descubrimos que hemos recopilado información de un menor, la eliminaremos inmediatamente.
+
+## 10. Compras y Pagos
+
+Las compras de la versión Premium se procesan a través de Google Play Billing:
+- No tenemos acceso a tus datos de tarjeta de crédito
+- Google procesa y almacena tu información de pago
+- Puedes cancelar suscripciones desde Google Play Store
+
+## 11. Cambios a esta Política
+
+Podemos actualizar esta Política de Privacidad ocasionalmente. Te notificaremos sobre cambios significativos mediante:
+- Notificación dentro de la app
+- Actualización de la fecha de "Última actualización"
+
+Te recomendamos revisar esta política periódicamente.
+
+## 12. Cumplimiento Legal
+
+SmartFoodChoice cumple con:
+- GDPR (Reglamento General de Protección de Datos de la UE)
+- CCPA (Ley de Privacidad del Consumidor de California)
+- Normativas colombianas de protección de datos
+
+## 13. Contacto
+
+Si tienes preguntas sobre esta Política de Privacidad o sobre cómo manejamos tus datos:
+
+**Email:** soporte@smartfoodchoice.com  
+**Tiempo de respuesta:** Menos de 48 horas
+
+---
+
+*Esta política de privacidad fue diseñada para ser transparente y fácil de entender. Tu privacidad es nuestra prioridad.*
